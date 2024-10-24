@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .BackGround{
+    background-color: #52315E;
+      background-image: linear-gradient( #52315E, #795995);
+      background-size: cover;
+      background-attachment: fixed;
+  }
+  
+  #container{
+    display: flex;
+    justify-content: space-between;
+  }
+  #container1{
+    display: flex;
+    justify-content: space-between; 
+}
+
+  .botao{
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 5%; 
+  }
+
+  .voltar{
+    width: 100%;
+  }
+
+  
+  .guanabara{
+    margin:auto;
+    width: 4500px;
+    height: 100px;
+    background-color:#DE9612;
+    border-radius: 200px;
+    font-size: 40px;
+    color: #fafafa;
+    text-align: center;
+    margin-right: 20%;
+    font-family: "Jersey 25", sans-serif;
+  }
+  
+  .bannerP{
+    width: 680px;
+    height: 585px;
+    background-color:#DE9612;
+    border-radius:40px;
+    margin-left: 80px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200); 
+  }
+
+  .texto{
+    font-size: 16px;
+    background-color: #F2B74A;
+    border-radius: 5%;
+    width:650px;
+    height:550px;
+    margin-left: 10px;
+    margin-top: 18px;
+    margin-right: 10px;
+    padding-left: 10px;
+  }
+
+  .bkg_img{
+    background-color: white;
+    border-radius: 60px;
+    margin-right: 300px;
+  }
+
+  .html{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 50px;   
+  }
+
+  .css{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 38px;
+
+  }
+
+  .javaS{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 50px;
+  }
+
+.logo_curso{
+    width: 60px;
+    height: 60px;
+
+}
+  .img{
+    background-color: #F2B74A;
+    width: 420px;
+    height: 160px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+.CemV{
+    color:white;
+    font-family: "Jersey 25", sans-serif;
+}
+
+  .banner2{
+    width: 460px;
+    height: 230px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 100px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);  
+  }
+  
+  .cursoIMG{
+    width: 300px;
+    height: 140px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-right: 5px;
+  }
+   
+  .banner3{
+    background-color:#DE9612;
+    width:460px;
+    height: 360px;
+    border-radius: 50px;
+    font-family: jersey 25 regular;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    margin-right: 20px;
+    margin-top:  40px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);
+  }
+  
+  .img1{
+    background-color: #F2B74A;
+    width: 430px;
+    height: 340px;
+    border-radius: 50px;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 40px;
+  }
+
+  .guana1{
+    width: 200px;
+    height: 100px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-right: 180px;
+  }
+  
+  .guana2{
+    width: 200px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: 180px;
+  }
+  
+  .guana3{
+    width: 200px;
+    height: 100px;
+    margin-right: 180px;
+    border-radius: 30px;
+
+  }

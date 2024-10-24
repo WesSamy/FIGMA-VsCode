@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .BackGround{
+    background-color: #B22621;
+      background-image: linear-gradient( #B22621, #D25252);
+      background-size: cover;
+      background-attachment: fixed;
+  }
+  
+  #container{
+    display: flex;
+    justify-content: space-between;
+  }
+  #container1{
+    display: flex;
+    justify-content: space-between; 
+}
+
+  .botao{
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 5%; 
+  }
+
+  .voltar{
+    width: 100%;
+  }
+
+  
+  .nintendo{
+    margin:auto;
+    width: 4500px;
+    height: 100px;
+    background-color:#DE9612;
+    border-radius: 200px;
+    font-size: 30px;
+    color: #C81515;
+    text-align: center;
+    margin-right: 20%;
+    font-family: "Jersey 25", sans-serif;
+  }
+  
+  .bannerP{
+    width: 680px;
+    height: 630px;
+    background-color:#DE9612;
+    border-radius:40px;
+    margin-left: 80px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200); 
+  }
+
+  .texto{
+    font-size: 20px;
+    background-color: #F2B74A;
+    border-radius: 5%;
+    width:655px;
+    height:600px;
+    margin-left: 10px;
+    margin-top: 18px;
+    margin-right: 10px;
+    padding-left: 10px;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  .bkg_img{
+    background-color: white;
+    border-radius: 60px;
+    margin-right: 300px;
+  }
+
+
+  .jogo_DK{
+    width: 80px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: 10px;
+   
+  }
+  .jogo_SMBROS{
+    width: 80px;
+    height: 100px;
+    border-radius: 20px;
+    margin-right: 260px;
+    
+  }
+  .mario_Coin{
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+    margin-right: 20px;
+  }
+
+  .nes{
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 200px;
+  }
+
+  .nintendo_S{
+    margin-left: 15px;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: 40px;
+  }
+
+
+  .banner2{
+    display: flex;
+    justify-content: space-between;
+    width: 520px;
+    height: 630px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-right: 100px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);  
+  }
+  
+  .titulo_banner2{
+    text-align: center;
+    color:#C81515;
+    margin-top: 40px;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  .banner3{
+    font-size: 16px;
+    background-color: #F2B74A;
+    border-radius: 5%;
+    width:500px;
+    height:520px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+  }
+  .nintendo_DS{
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+    margin-top: 2px;
+    margin-left: 30px;  
+  }
+  
+  .texto_ninDS{
+    margin-left: 30px;
+    font-family: "Jersey 25", sans-serif;
+    font-size: 20px;
+  }
+
+  .game_Boy{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+  .texto_gameBoy{
+    margin-left: 30px;
+    font-family: "Jersey 25", sans-serif;
+    font-size: 20px;
+  }
+  .nintendo_Switch{
+    width: 150px;
+    height: 100px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+  }

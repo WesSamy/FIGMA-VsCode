@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .BackGround{
+    background-color: #52315E;
+      background-image: linear-gradient( #52315E, #795995);
+      background-size: cover;
+      background-attachment: fixed;
+  }
+
+#container{
+    display: flex;
+    justify-content: space-between; 
+}
+
+  .botao{
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+  .voltar {
+    width: 1500px;
+  }
+  .games{
+    margin:auto;
+    width: 4500px;
+    height: 100px;
+    background-color:#DE9612;
+    border-radius: 40px;
+    font-size: 50px;
+    color: #2A3B67;
+    text-align: center;
+    margin-right: 300px;
+    margin-top: 50px;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  #bloco4{
+    margin:auto;
+    width: 50%;
+    height: 150px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);
+    cursor: pointer;
+    display: flex;
+    /*estilizando texto*/
+    font-size: 50px;
+    color: #ffffff;
+    padding-left: 30px; 
+    text-decoration: none;
+    margin-left: 360px;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  .playS{
+    width: 170px;
+    height: 140px;
+    border-radius: 100%;
+    margin-top: 5px;
+    text-decoration: none;
+  }
+  .textoPlay{
+    margin-left: 40px;
+  }
+  
+  #bloco5{
+    margin:auto;
+    width: 50%;
+    height: 150px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);
+    cursor: pointer;
+    display: flex;
+     /*estilizando texto*/
+    font-size: 50px;
+    color: #ffffff;
+    padding-left: 30px;
+    margin-left: 360px;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  .xbox{
+    width: 170px;
+    height: 140px;
+    border-radius: 100%;
+    margin-top: 5px;
+  }
+
+  .textoXbox{
+    margin-left: 40px;
+  }
+
+  #bloco6{
+    margin:auto;
+    width: 50%;
+    height: 150px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);
+    cursor: pointer;
+    display: flex;
+    /*estilizando texto*/
+    font-size: 50px;
+    color: #ffffff;
+    padding-right: 10px;
+    margin-left: 360px;
+    font-family: "Jersey 25", sans-serif;
+
+  }
+
+  .nintendo{
+    width: 170px;
+    height: 140px;
+    border-radius: 100%;
+    margin-top: 5px;
+    margin-left: 30px;
+  }
+
+  .textoNin{
+    margin-left: 40px;
+   
+  }
+
+  a{
+    text-decoration: none;
+  }
+ 

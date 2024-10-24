@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .BackGround{
+      background-color: #52315E;
+      background-image: linear-gradient( #52315E, #795995);
+      background-size: cover;
+      background-attachment: fixed;
+  }
+
+  #container{
+    display: flex;
+    justify-content: space-between; 
+}
+
+  .botao{
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+  .voltar{
+    width: 1500px;
+  }
+
+  .bibliografia{
+    margin:auto;
+    width: 4500px;
+    height: 100px;
+    background-color:#DE9612;
+    border-radius: 40px;
+    font-size: 50px;
+    color: #2A3B67;
+    text-align: center;
+    margin-right: 300px;
+    margin-top: 50px;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  #bloco1{
+    /*layout bloco1*/
+    margin:auto;
+    width: 50%;
+    height: 150px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);
+    margin-left: 360px;
+    cursor: pointer; 
+    display: flex; 
+    /*estilização texto*/
+    font-size: 50px;
+    color: #ffffff;
+    padding-left: 30px;
+    text-decoration: none;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  .jobs{
+    width: 140px;
+    height: 130px;
+    border-radius: 100%;
+    margin-top: 10px;
+  }
+
+  .textoJobs{
+    margin-left: 40px;
+  }
+  
+  #bloco2{
+    /*layout bloco1*/
+    margin:auto;
+    width: 50%;
+    height: 150px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);
+    padding-left: 30px;
+    margin-left: 360px;
+    cursor: pointer;
+    display: flex; 
+    /*estilização texto*/
+    font-size: 50px;
+    color: #ffffff;
+    font-family: "Jersey 25", sans-serif;
+    text-decoration: none;
+    
+  }
+
+  .Gates{
+    width: 140px;
+    height: 130px;
+    border-radius: 100%;
+    margin-top: 2%;
+    cursor: pointer;
+  }
+
+  .textoGates{
+    margin-left: 40px;
+  }
+
+  #bloco3{
+    margin:auto;
+    width: 50%;
+    height: 150px;
+    background-color:#DE9612;
+    border-radius: 50px;
+    display: flex; 
+    font-size: 40px;
+    color: #ffffff;
+    box-shadow: 20px 10px 1px rgb(0, 0, 0, 200);
+    padding-left: 30px;
+    margin-left: 360px;
+    font-family: "Jersey 25", sans-serif;
+  }
+
+  .Guanabara{
+    background-color: white;
+    width: 140px;
+    height: 130px;
+    border-radius: 100%;
+    margin-top: 10px;
+    text-decoration: none;
+  }
+  .textoGuanabara{
+    margin-left: 40px;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
